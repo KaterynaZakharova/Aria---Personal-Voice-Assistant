@@ -15,7 +15,7 @@ On the right side of the app, you can see twelve buttons – these are quick que
 
 • "Check notes" -- open the Notepad where notes are written;
 
-* "Open Microsoft Word" - open the "Microsoft Word" application»;
+• "Open Microsoft Word" - open the "Microsoft Word" application»;
 
 • "Show random picture" - open a random photo or image located in the root folder;
 
@@ -23,7 +23,7 @@ On the right side of the app, you can see twelve buttons – these are quick que
 
 • "Play music" - enable a random music file located in the root folder;
 
-* "Play video" - enable random video located in the root folder;
+• "Play video" - enable random video located in the root folder;
 
 • "Play Dua Lipa Want To" - enable on the site youtube.com Dua Lipa clip – Want To;
 
