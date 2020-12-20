@@ -1,4 +1,18 @@
-Aria - Personal Voice Assistant
+# Aria - Personal Voice Assistant
+
+:exclamation: Do your tasks **faster** with this app. Dictate notes, open programs, play music and so on **with just your voice**!
+There is also manual control presents. Click the buttons or write your message in the text line.
+
+### Interface of the App
+
+
+
+:heavy_check_mark: I mastered:
+* Python
+* PyQt5
+* Parsing
+
+
 
 Description of the user's instructions:
 
